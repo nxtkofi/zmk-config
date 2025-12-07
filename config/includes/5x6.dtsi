@@ -85,11 +85,11 @@
         scroll {
             label = "Scroll";
             bindings = < LAYER_FROM64( \
-&trans,  &trans,  &trans,  &trans,  &trans,  &trans,                    &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
-&trans,  &trans,  &trans,  &trans,  &trans,  &trans,                    &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
-&trans,  &trans,  &trans,  &trans,  &trans,  &trans,                    &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
-&trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
-&trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans
+&kp ESC,  &trans,  &trans,  &trans,  &trans,  &trans,                    &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
+&trans,   &trans,  &trans,  &trans,  &trans,  &trans,                    &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
+&trans,   &trans,  &trans,  &trans,  &trans,  &trans,                    &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
+&trans,   &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,
+&trans,   &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans,  &trans
             )>;
         };
 
