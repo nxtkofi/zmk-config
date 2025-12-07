@@ -51,7 +51,7 @@
         device = <&mouse>;
         input-processors = <&zip_xy_transform (INPUT_TRANSFORM_Y_INVERT)>;
         scroller {
-            layers = <3>;
+            layers = <4>;
             input-processors = <&zip_xy_to_scroll_mapper &zip_scroll_scaler 1 4>;
         };
     };
